@@ -12,7 +12,4 @@ $result = file_get_contents($url, false, $context);
 if ($result === FALSE) { /* Handle error */ }
 var_dump($result);
 
-
-$xml = file_get_contents("http://api.github.com/users/tebbaa-adnane");
-
 ?>
