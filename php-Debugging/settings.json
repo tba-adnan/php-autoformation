@@ -1,6 +1,7 @@
 {  
 // JSON configuration file.
     "php.debug.executablePath":
-    "C:\\Users\\solicode\\Desktop\\php\\php.exe" 
+    "C:\\Users\\solicode\\Desktop\\php\\php.exe"  // php directory in your machine
+                                                 // v2.0 : "C:\\php" 
 
 }
