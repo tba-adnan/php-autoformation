@@ -1,4 +1,4 @@
 <?php 
-define('NOM', 'Adnane Tebbaa');
-echo NOM;
+define('NAME', 'Adnane Tebbaa');
+echo NAME
 ?>
